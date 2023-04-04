@@ -4,8 +4,8 @@ public class   Employee{
                 int employeeId = 603;
                 String employeeName ="Alok";
                 String employeeDesignation ="Software Engineer";
-                String employeeDepartment = "Development";
-                int employeeSalary = 55000;
+                String employeeDepartment = "Java Development";
+                int employeeSalary = 60000;
                 String companyName = "Infosys";
                 String jobLocation = "Bhubaneswar";
    

@@ -2,10 +2,17 @@ public class   Employee{
            public static void main(String[] args){
                 //declaration of data type;
                 int employeeId = 603;
-                String employeeName ="Alok";
+              
                 String employeeDesignation ="Software Engineer";
-                String employeeDepartment = "Java Development";
+              
                 int employeeSalary = 60000;
+
+             
+                String employeeName ="vinod";
+              
+                String employeeDepartment = " Python Development";
+              
+
                 String companyName = "Infosys";
                 String jobLocation = "Bhubaneswar";
    
